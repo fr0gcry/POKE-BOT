@@ -2,7 +2,7 @@
 #Lists of all 809 Pokemon sorted in each list according to Char count
 #Please add any missing Names if found
 
-ID = 00000000000000 #Please include channel id 
+ID = 820345805990526980 #Please include channel id 
 
 char3 = [
 'Muk',
@@ -1010,7 +1010,7 @@ async def on_message(message):
 
 
 #User token, Please remove "bot=False" if using a bot account token
-client.run("**************", bot=False)
+client.run(ODUwNDM5OTY2NzU2NTY5MTUx.YLpv8A.4lR_yjkuxtf3VVAkKhjD_QMSaY)               
 
 
     ###MSG CONTENT READER REFRENCE
